@@ -1,3 +1,6 @@
+# This is a test script for the UFace class. 
+# UFace has been updated, so this needs to be updated too.
+
 import UFace
 
 def test_bench():
